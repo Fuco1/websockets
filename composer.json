@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/react": "^0.4.2",
+        "react/promise": "^2.4",
+        "cboden/ratchet": "0.3.*",
+        "predis/predis-async": "dev-master"
+    }
+}
